@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Blake Stevens
 ##  About Me
-I am in class IS-10003 and I enjoy rock climbing
+I am in class IS-1003 and I enjoy rock climbing
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
